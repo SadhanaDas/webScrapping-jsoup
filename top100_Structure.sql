@@ -15,7 +15,7 @@ MySQL - 8.0.30 : Database - movie
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`movie` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 
 USE `movie`;
-
+/*Create a database named 'movie' inside it create the table 'top100' with given credentials*/
 /*Table structure for table `top100` */
 
 DROP TABLE IF EXISTS `top100`;
